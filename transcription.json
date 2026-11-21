@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "work_key": "trove26800439",
+    "title": "郵役發狂",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "Tung Wah Times, 1904-05-21, p. 3, NLA news-page26800439",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "郵役發狂（《東華報》1904-05-21 第3版，澳洲國家圖書館） / You yi fa kuang [A Postal Worker Reported to Have Become Insane]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "◎郵役發狂　本埠西報云有西人名墨東拿扶年方五十歲充"
+            },
+            {
+              "text": "當本埠總郵局派信之役已歷二十年向來品行正端惟命是從亦"
+            },
+            {
+              "text": "無酣酒等弊不料昨十三號早八點鐘有仝役人二名見其舉止反"
+            },
+            {
+              "text": "常乃向前詰其何故彼遂出言唐突得罪仝役而仝役據情訴聞於"
+            },
+            {
+              "text": "司理員司理員步至墨東拿扶之前先以善言開導之執意其人置"
+            },
+            {
+              "text": "之不聞司理員怒責之曰汝何不遵命作工乎彼其不惟不聽且轉"
+            },
+            {
+              "text": "以不法之語相咒罵狂性異常殊無人理司理員忙出信局門首邀"
+            },
+            {
+              "text": "一巡捕入而排解云不想其人一見巡捕視如寇仇狂性益張趨前"
+            },
+            {
+              "text": "以敵邊將巡捕舉而擲之於地視如玩物巡捕起而與閗約歷一分"
+            },
+            {
+              "text": "鐘之久而巡捕之力已窮蓋其人身高力壯且染癲狂之症所以力"
+            },
+            {
+              "text": "大異常該巡捕終被重傷須入醫院調治數禮拜方能再任其職云"
+            },
+            {
+              "text": "當巡捕被傷之頃信館內有工役八名因見情形不佳迫得奔前助"
+            },
+            {
+              "text": "救幾經搏擊始將狂件壓伏從而拘之後交差人押往監房困禁云"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 1,
+          "context": "墨東拿扶",
+          "candidates": [
+            "墨東拿扶"
+          ],
+          "note": "原刊人名以音譯字照錄，未據外文變更。"
+        },
+        {
+          "side": "single",
+          "column": 9,
+          "context": "以敵邊",
+          "candidates": [
+            "以敵邊"
+          ],
+          "note": "依原圖照錄，目前無並證。"
+        },
+        {
+          "side": "single",
+          "column": 13,
+          "context": "狂件",
+          "candidates": [
+            "狂件",
+            "狂伴"
+          ],
+          "note": "形近字留待對勘。"
+        }
+      ],
+      "observations": "正文十三欄，標題印雙圓，末欄「困禁云」後轉下一篇〈西匪毆劫〉。原圖報頭日期與版次可辨。",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/26800439",
+      "catalogue_page": 3,
+      "image_url": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page26800439/level5",
+      "sha256": "c4d81dbdaebf1e4e722255421021d41af577dd7724eb09604370cccc8c14d084",
+      "label": "1904-05-21 第3版",
+      "dimensions": [
+        2904,
+        3925
+      ],
+      "article_extent": [
+        553,
+        1165,
+        1158,
+        2005
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}

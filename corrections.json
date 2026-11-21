@@ -1,0 +1,55 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 1,
+  "changes": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "無酣酒等弊不料昨十三號早八點鐘有仝役人二名見其舉止反",
+      "after": "無醉酒等弊不料昨十三號早八點鐘有仝役人二名見其舉止反",
+      "reason": "原字酒旁右部上點及中部兩側斜筆可見，下有十形，近卒而非甘。",
+      "source_bbox": [
+        553,
+        1165,
+        1158,
+        2005
+      ],
+      "source_image_sha256": "c4d81dbdaebf1e4e722255421021d41af577dd7724eb09604370cccc8c14d084",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/26800439"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 1,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/26800439",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 9,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/26800439",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 13,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/26800439",
+      "status": "保留疑讀"
+    }
+  ],
+  "retained_readings": [
+    {
+      "side": "single",
+      "column": 9,
+      "context": "閗",
+      "note": "框內另有斗形，保留原字。"
+    }
+  ]
+}

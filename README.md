@@ -4,11 +4,11 @@
 
 You yi fa kuang [A Postal Worker Reported to Have Become Insane] appeared in Tung Wah Times (1904-05-21). A Sydney report records a postal supervisor's response after a postal worker behaved unusually at work. The account follows police intervention, a constable admitted to hospital, and the detention of the worker.
 
-## V0.1.0
+## V0.2.0
 
-完整收錄第3版此篇原題與正文 13 個原欄，全文格式為 TXT、JSON 與 TEI XML。此版固定 AI 輔助初錄，標明未定讀法。尚未經人類全文雙校。
+完整收錄第3版此篇原題與正文 13 個原欄，全文格式為 TXT、JSON 與 TEI XML。比對獨立原圖讀法後回圖裁定，採用 1 筆訂正，留存疑讀定位。
 
-TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 13 source columns on page 3. This edition preserves the first AI-assisted transcription and marks uncertainties. It has not been double proofread by human readers.
+TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 13 source columns on page 3. An independent image reading was compared with the first transcription. Source-image adjudication adopted 1 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

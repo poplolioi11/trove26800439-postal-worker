@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '郵役發狂（《東華報》1904-05-21 第3版，澳洲國家圖書館） / You yi fa kuang [A Postal Worker Reported
   to Have Become Insane]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu
